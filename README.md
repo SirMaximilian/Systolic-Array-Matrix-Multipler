@@ -1,8 +1,8 @@
 # Systolic-Array-Matrix-Multipler
 A Matrix Multipier implimneted on a Systolic Array
 
-Work in progress systolic array matrix multiplier
+Still work in progress
 
-As of right now the array has been implimnted
+As of right now the array has been implimnted for operation
 
-A control unit needs to be created for this system
+A control unit can to be created to offload processing from CPU as well as storing and loading data
