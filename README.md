@@ -1,5 +1,5 @@
 # Systolic-Array-Matrix-Multipler
-A Matrix Multipier implimneted on a Systolic Array
+A Matrix Multipier implemented on a Systolic Array
 
 Still work in progress
 
